@@ -3,7 +3,6 @@ var cors = require('cors')
 const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
-const path = require("path");
 const PORT = process.env.PORT || 3008;
 
 const app = express();
@@ -22,13 +21,6 @@ app.use(express.static("client/build"));
 
 // Send every request to the React app
 // Define any API routes before this runs
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static("client/build"));
-}
-
-app.get("*", function(req, res) {
-  res.sendFile(path.join(__dirname, "./public/index.html"));
-});
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useNewUrlParser: true,
