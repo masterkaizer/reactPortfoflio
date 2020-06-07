@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from "../src/components/header/header";
-import Footer from "../src/components/footer/footer";
-import Home from "../src/components/routes/routes"
+import Header from "./components/header/header";
+import Footer from "./components/footer/footer";
+import Home from "./components/routes/routes"
 import { createMuiTheme } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 
