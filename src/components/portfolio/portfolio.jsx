@@ -13,7 +13,7 @@ class Portfolio extends React.Component {
                 {
                     name: 'Readme Generator',
                     urlToProject: 'https://masterkaizer.github.io/homework9.0/',
-                    image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif'
+                    image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif',
                 },
                 {
                     name: 'Note Taker',
