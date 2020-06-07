@@ -1,36 +1,24 @@
 const express = require("express");
-var cors = require('cors')
-const logger = require("morgan");
+
 const mongoose = require("mongoose");
-const compression = require("compression");
-const PORT = process.env.PORT || 3008;
-
+const routes = require("./src/components/routes");
 const app = express();
+const PORT = process.env.PORT || 3001;
 
-app.use(cors())
-
-app.use(logger("dev"));
-
-app.use(compression());
+// Define middleware here
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+// Serve up static assets (usually on heroku)
+if (process.env.NODE_ENV === "production") {
+  app.use(express.static("client/build"));
+}
+// Add routes, both API and view
+app.use(routes);
 
-app.use(express.static("public"));
+// Connect to the Mongo DB
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactportfolio");
 
-
-
-// Send every request to the React app
-// Define any API routes before this runs
-
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
-  useNewUrlParser: true,
-  useFindAndModify: false,
-   useUnifiedTopology: true
-});
-
-// routes here
-app.use(require("src/components/routes/routes.jsx"));
-
-app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+// Start the API server
+app.listen(PORT, function() {
+  console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`);
 });
