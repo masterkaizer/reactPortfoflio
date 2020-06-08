@@ -27,6 +27,7 @@ function App() {
       <div className="root main">
         <Header />
         <div style={{ flexGrow: '1' }}>
+      
           <Home />
         </div>
         <Footer />

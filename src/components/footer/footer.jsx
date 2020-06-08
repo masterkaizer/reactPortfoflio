@@ -22,7 +22,7 @@ function Footer() {
                                     </a>
                                 </li>
                                 <li >
-                                <a href ="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:d34b9336-f9c5-4cfa-ab19-724ecad0efce">
+                                <a href ="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e5106998-b4de-4394-b80c-9ab670ca7f66">
                                     <img src="images/resume.png" />
                                     </a>
                                    
