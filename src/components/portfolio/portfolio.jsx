@@ -14,72 +14,100 @@ class Portfolio extends React.Component {
                     name: 'Readme Generator',
                     urlToProject: 'https://masterkaizer.github.io/homework9.0/',
                     image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif',
+                    gitHub: ' https://github.com/masterkaizer/homework9.0.git'
                 },
                 {
                     name: 'Note Taker',
                     urlToProject: 'https://note6bs.herokuapp.com/',
-                    image: 'https://media.giphy.com/media/SXgbKiEY7lHrr3vvz8/giphy.gif'
+                    image: 'https://media.giphy.com/media/SXgbKiEY7lHrr3vvz8/giphy.gif',
+                    gitHub: 'https://github.com/masterkaizer/NoteTaker-BrandonSellam.git'
                 },
                 {
                     name: 'Password Generator.',
                     urlToProject: 'https://masterkaizer.github.io/homework-3/',
-                    image: 'images/codegen.png'
+                    image: 'images/codegen.png',
+                    gitHub: 'https://github.com/masterkaizer/homework-3.git'
                 },
                 {
                     name: 'Code Quiz',
                     urlToProject: 'https://masterkaizer.github.io/homework4/',
-                    image: 'images/codeq.png'
+                    image: 'images/codeq.png',
+                    gitHub: 'https://github.com/masterkaizer/homework4.git'
                 },
                 {
                     name: 'Day Planner',
                     urlToProject: 'https://masterkaizer.github.io/homework5/',
-                    image: 'images/daypl.png'
+                    image: 'images/daypl.png',
+                    gitHub: ' https://github.com/masterkaizer/homework5.git'
+
                 },
                 {
                     name: 'Weather Dashboard',
                     urlToProject: 'https://masterkaizer.github.io/BlueSky-B.J.S/',
-                    image: 'images/weather.png'
+                    image: 'images/weather.png',
+                    gitHub: 'https://github.com/masterkaizer/BlueSky-B.J.S.git'
+                },
+                {
+                    name: 'Employee tracker app',
+                    urlToProject: 'https://masterkaizer.github.io/EMPLOYEES-TRACKER-APP',
+                    image: 'https://media.giphy.com/media/iDTnfocthmuKCBEuBG/giphy.gif',
+                    gitHub: 'https://github.com/masterkaizer/EMPLOYEES-TRACKER-APP.git'
+                },
+                {
+                    name: 'This an node express handle bar app.',
+                    urlToProject: 'https://burger4ever.herokuapp.com/',
+                    image: 'images/burger4vegan.png',
+                    gitHub: 'https://github.com/masterkaizer/Eat-the-Burger.git'
+                    
                 },
                 {
                     name: 'This is a progressive budget application.',
                     urlToProject: 'https://brandonpocketpatrol.herokuapp.com/',
-                    image: 'images/78.png'
+                    image: 'images/78.png',
+                    gitHub: 'https://github.com/masterkaizer/Progressive-Budget-app.git'
                 },
                 {
                     name: 'This is a fitness tracker application realized with experience in fitness.',
                     urlToProject: 'https://fitness6bs.herokuapp.com/',
-                    image: 'images/fitnesstracker.png' 
+                    image: 'images/fitnesstracker.png',
+                    gitHub: ' https://github.com/masterkaizer/Fitness-Tracker-by-BS.git'
                 },
                 {
                     name: ' This is my second team  project.',
                     urlToProject: 'https://food-diaries.herokuapp.com/',
-                    image: 'images/logo.jpeg'
+                    image: 'images/logo.jpeg',
+                    gitHub: ' https://github.com/jiyoon9886/food_diaries'
                 },
                 {
                     name: 'Hey this is my first groupes project.',
-                    urlToProject: 'https://bmweinstein7.github.io/CU-NYC-Project/',
-                    image: 'images/proj1.png'
+                    urlToProject: 'https://bmweinstein7.github.io/CrU-NYC-Project/',
+                    image: 'images/proj1.png',
+                    gitHub: 'https://github.com/BMWeinstein7/CU-NYC-Project.git'
                 },
                 {
-                    name: 'This is an readme generator app.',
-                    urlToProject: 'https://masterkaizer.github.io/homework9.0/',
-                    image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif'
+                    name: 'This is an team profile generator.',
+                    urlToProject: 'https://masterkaizer.github.io/homework-10/',
+                    image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif',
+                    gitHub: 'https://github.com/masterkaizer/homework-10.git'
                 },
                 {
                     name: 'This is an employee directory app.',
                     urlToProject: 'https://udemployeebrandonjsellam.herokuapp.com',
-                    image: 'images/MyUd.png'
+                    image: 'images/MyUd.png',
+                    gitHub: 'https://github.com/masterkaizer/MyUD.git'
                 },
                 {
                     name: 'This is my final group project.',
                     urlToProject: '#',
-                    image: 'https://media.giphy.com/media/dUMpZT6ALoLIYCW2WC/giphy.gif'
+                    image: 'https://media.giphy.com/media/dUMpZT6ALoLIYCW2WC/giphy.gif',
+                    gitHub: ''
                 }, 
 
                 {
                     name: 'google book react search app.',
                     urlToProject: '#',
-                    image: 'https://media.giphy.com/media/l4FnZtraqkDwk05VJa/giphy.gif'
+                    image: 'https://media.giphy.com/media/l4FnZtraqkDwk05VJa/giphy.gif',
+                    gitHub: ''
                 }, 
 
 

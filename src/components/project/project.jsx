@@ -16,7 +16,7 @@ export default function project(props) {
             <Card >
                 <CardActionArea onClick={() => { window.open(props.urlToProject) }}>
                     <CardMedia
-                        style={{ height: '300px' }}
+                        style={{ height: '260px' }}
                         image={props.image}
                         title={props.name}
                     />
@@ -30,7 +30,7 @@ export default function project(props) {
                         </Typography>
                 </CardContent>
 
-                <CardActions>
+                <CardActions onClick={() => { window.open(props.gitHub) }}>
                     <Button size="small" color="secondary">
                         Open in Github
                     </Button>
