@@ -58,7 +58,7 @@ class Portfolio extends React.Component {
                     urlToProject: 'https://burger4ever.herokuapp.com/',
                     image: 'images/burger4vegan.png',
                     gitHub: 'https://github.com/masterkaizer/Eat-the-Burger.git'
-                    
+                    // In GD We Trust, i know what i am coding i just like to do stuff that are out of the box but forget to comment on it.
                 },
                 {
                     name: 'This is a progressive budget application.',
