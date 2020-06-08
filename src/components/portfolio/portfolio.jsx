@@ -67,8 +67,8 @@ class Portfolio extends React.Component {
                 },
                 {
                     name: 'This is an employee directory app.',
-                    urlToProject: '#',
-                    image: 'https://media.giphy.com/media/UuArFNlelVSZu0gc40/giphy.gif'
+                    urlToProject: 'https://udemployeebrandonjsellam.herokuapp.com',
+                    image: 'images/MyUd.png'
                 },
                 {
                     name: 'This is my final group project.',

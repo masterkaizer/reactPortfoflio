@@ -24,7 +24,7 @@ class About extends React.Component {
 
                                         <Grid xs={12} md={6}>
                                             <div className="about-img">
-                                                <img src='images/profile.jpg' />
+                                                <img src='images/profile.jpg' alt="profile" />
                                             </div>
                                         </Grid>
                                         <Grid xs={12} md={6}>
