@@ -10,11 +10,11 @@ import { ThemeProvider } from '@material-ui/styles';
 const theme = createMuiTheme({
   palette: {
     primary: {
-      // Purple and green play nicely together.
+      // Purple and green make a good mix.
       main: '#607D8B',
     },
     secondary: {
-      // This is green.A700 as hex.
+      // This is green
       main: '#26A69A',
     },
   },
