@@ -98,9 +98,9 @@ class Portfolio extends React.Component {
                 },
                 {
                     name: 'This is my final group project.',
-                    urlToProject: '#',
+                    urlToProject: 'https://thedogpromenade.herokuapp.com',
                     image: 'https://media.giphy.com/media/dUMpZT6ALoLIYCW2WC/giphy.gif',
-                    gitHub: ''
+                    gitHub: 'https://github.com/masterkaizer/finalproj.git'
                 }, 
 
                 {
