@@ -20,7 +20,7 @@ class Portfolio extends React.Component {
                     name: 'Note Taker',
                     urlToProject: 'https://note6bs.herokuapp.com/',
                     image: 'https://media.giphy.com/media/SXgbKiEY7lHrr3vvz8/giphy.gif',
-                    gitHub: 'https://github.com/masterkaizer/NoteTaker-BrandonSellam.git'
+                    gitHub: ' https://github.com/masterkaizer/thebestnotetackereverbybs.git'
                 },
                 {
                     name: 'Password Generator.',
@@ -49,28 +49,28 @@ class Portfolio extends React.Component {
                 },
                 {
                     name: 'Employee tracker app',
-                    urlToProject: 'https://masterkaizer.github.io/EMPLOYEES-TRACKER-APP',
+                    urlToProject: 'https://github.com/masterkaizer/EMS.git',
                     image: 'https://media.giphy.com/media/iDTnfocthmuKCBEuBG/giphy.gif',
-                    gitHub: 'https://github.com/masterkaizer/EMPLOYEES-TRACKER-APP.git'
+                    gitHub: 'https://masterkaizer.github.io/EMS/'
                 },
                 {
                     name: 'This an node express handle bar app.',
                     urlToProject: 'https://burger4ever.herokuapp.com/',
                     image: 'images/burger4vegan.png',
-                    gitHub: 'https://github.com/masterkaizer/Eat-the-Burger.git'
+                    gitHub: 'https://github.com/masterkaizer/burger4ever.git'
                     // In GD We Trust, i know what i am coding i just like to do stuff that are out of the box but forget to comment on it.
                 },
                 {
                     name: 'This is a progressive budget application.',
                     urlToProject: 'https://brandonpocketpatrol.herokuapp.com/',
                     image: 'images/78.png',
-                    gitHub: 'https://github.com/masterkaizer/Progressive-Budget-app.git'
+                    gitHub: ' https://github.com/masterkaizer/brandonpocketpatrol.git'  
                 },
                 {
                     name: 'This is a fitness tracker application realized with experience in fitness.',
                     urlToProject: 'https://fitness6bs.herokuapp.com/',
                     image: 'images/fitnesstracker.png',
-                    gitHub: ' https://github.com/masterkaizer/Fitness-Tracker-by-BS.git'
+                    gitHub: 'https://github.com/masterkaizer/fitness6bs.git'
                 },
                 {
                     name: ' This is my second team  project.',
@@ -86,9 +86,9 @@ class Portfolio extends React.Component {
                 },
                 {
                     name: 'This is an team profile generator.',
-                    urlToProject: 'https://masterkaizer.github.io/homework-10/',
+                    urlToProject: 'https://masterkaizer.github.io/TMPG/',
                     image: 'https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif',
-                    gitHub: 'https://github.com/masterkaizer/homework-10.git'
+                    gitHub: 'https://github.com/masterkaizer/TMPG.git'
                 },
                 {
                     name: 'This is an employee directory app.',
