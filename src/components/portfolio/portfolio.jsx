@@ -106,7 +106,7 @@ class Portfolio extends React.Component {
                     name: 'google book react search app.',
                     urlToProject: 'https://ggbs96.herokuapp.com/',
                     image: 'https://media.giphy.com/media/h4TrXsrE6dKMB7tTQU/giphy.gif',
-                    gitHub: 'https://github.com/masterkaizer/gbbs.git'
+                    gitHub: 'https://github.com/masterkaizer/gb852963.git'
                 }, 
 
 
