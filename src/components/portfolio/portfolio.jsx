@@ -1,5 +1,4 @@
 import React from 'react';
-import AppBar from '@material-ui/core/AppBar';
 import Grid from '@material-ui/core/Grid';
 import Project from "../project/project";
 
@@ -106,7 +105,7 @@ class Portfolio extends React.Component {
                 {
                     name: 'google book react search app.',
                     urlToProject: 'https://ggbs96.herokuapp.com/',
-                    image: 'https://media.giphy.com/media/l4FnZtraqkDwk05VJa/giphy.gif',
+                    image: 'https://media.giphy.com/media/h4TrXsrE6dKMB7tTQU/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/gbbs.git'
                 }, 
 

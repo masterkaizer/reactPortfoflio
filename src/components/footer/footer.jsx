@@ -18,23 +18,23 @@ function Footer() {
                                 </li>
                                 <li >
                                 <a href ="https://www.linkedin.com/mwlite/in/sellam-brandon-6941a074">
-                                    <img src="images/linkedin.png" style={{ height: '20px', marginTop: '5px' }} />
+                                    <img src="images/linkedin.png" style={{ height: '20px', marginTop: '5px' }} alt="linkedin" />
                                     </a>
                                 </li>
                                 <li >
                                 <a href ="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e5106998-b4de-4394-b80c-9ab670ca7f66">
-                                    <img src="images/resume.png" />
+                                    <img src="images/resume.png"  alt="resume"/>
                                     </a>
                                    
                                 </li>
                                 <li >
-                                <a href="mailto:brandon.sellam@gmail.com" target="_blank">
-                                <img src="images/email.png" />
+                                <a href="mailto:brandon.sellam@gmail.com" target="_blank" rel="noopener noreferrer">
+                                <img src="images/email.png" alt="email"/>
                                     </a>
                                 </li>
                                 <li >
-                                <a href="tel:+1929-320-5965" target="_blank">
-                                <img src="images/phone.png" />
+                                <a href="tel:+1929-320-5965" target="_blank"  rel="noopener noreferrer">
+                                <img src="images/phone.png" alt="tel"/>
                                     </a>
                                    
                                 </li>
