@@ -13,7 +13,7 @@ function Footer() {
                             <ul>
                                 <li >
                                 <a href ="https://github.com/masterkaizer">
-                                    <img src="images/github.png" />
+                                    <img src="images/github.png" alt="github"/>
                                     </a>
                                 </li>
                                 <li >
@@ -25,7 +25,6 @@ function Footer() {
                                 <a href ="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e5106998-b4de-4394-b80c-9ab670ca7f66">
                                     <img src="images/resume.png"  alt="resume"/>
                                     </a>
-                                   
                                 </li>
                                 <li >
                                 <a href="mailto:brandon.sellam@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -34,9 +33,8 @@ function Footer() {
                                 </li>
                                 <li >
                                 <a href="tel:+1929-320-5965" target="_blank"  rel="noopener noreferrer">
-                                <img src="images/phone.png" alt="tel"/>
+                                <img src="images/phone.png" alt="phone"/>
                                     </a>
-                                   
                                 </li>
                             </ul>
                         </Grid>
