@@ -24,26 +24,26 @@ class Portfolio extends React.Component {
                 {
                     name: 'Password Generator.',
                     urlToProject: 'https://masterkaizer.github.io/homework-3/',
-                    image: 'images/codegen.png',
+                    image: 'https://media.giphy.com/media/h86GghCpRMWDWTHO6C/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/homework-3.git'
                 },
                 {
                     name: 'Code Quiz',
                     urlToProject: 'https://masterkaizer.github.io/homework4/',
-                    image: 'images/codeq.png',
+                    image: 'https://media.giphy.com/media/LmxNgUUHlEr10q5ORb/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/homework4.git'
                 },
                 {
                     name: 'Day Planner',
                     urlToProject: 'https://masterkaizer.github.io/homework5/',
-                    image: 'images/daypl.png',
+                    image: 'https://media.giphy.com/media/MFHuCY48k3dYPPWy8w/giphy.gif',
                     gitHub: ' https://github.com/masterkaizer/homework5.git'
 
                 },
                 {
                     name: 'Weather Dashboard',
                     urlToProject: 'https://masterkaizer.github.io/BlueSky-B.J.S/',
-                    image: 'images/weather.png',
+                    image: 'https://media.giphy.com/media/eiorDwPaEjgi5Sg399/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/BlueSky-B.J.S.git'
                 },
                 {
@@ -55,32 +55,32 @@ class Portfolio extends React.Component {
                 {
                     name: 'This an node express handle bar app.',
                     urlToProject: 'https://burger4ever.herokuapp.com/',
-                    image: 'images/burger4vegan.png',
+                    image: 'https://media.giphy.com/media/WpCRekc0BE8Uov6BY0/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/burger4ever.git'
                     // In GD We Trust, i know what i am coding i just like to do stuff that are out of the box but forget to comment on it.
                 },
                 {
                     name: 'This is a progressive budget application.',
                     urlToProject: 'https://brandonpocketpatrol.herokuapp.com/',
-                    image: 'images/78.png',
+                    image: 'https://media.giphy.com/media/kDZVfpFt9dUE7Pxs9X/giphy.gif',
                     gitHub: ' https://github.com/masterkaizer/brandonpocketpatrol.git'  
                 },
                 {
                     name: 'This is a fitness tracker application realized with experience in fitness.',
                     urlToProject: 'https://fitness6bs.herokuapp.com/',
-                    image: 'images/fitnesstracker.png',
+                    image: 'https://media.giphy.com/media/huaUIoaxWjhx2PNQuJ/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/fitness6bs.git'
                 },
                 {
                     name: ' This is my second team  project.',
                     urlToProject: 'https://food-diaries.herokuapp.com/',
-                    image: 'images/logo.jpeg',
+                    image: 'https://media.giphy.com/media/YN1IdCWsWldLgya2b5/giphy.gif',
                     gitHub: ' https://github.com/jiyoon9886/food_diaries'
                 },
                 {
                     name: 'Hey this is my first groupes project.',
-                    urlToProject: 'https://bmweinstein7.github.io/CrU-NYC-Project/',
-                    image: 'images/proj1.png',
+                    urlToProject: 'https://bmweinstein7.github.io/CU-NYC-Project/',
+                    image: 'https://media.giphy.com/media/fvMOBQFE3yLYXQbKrz/giphy.gif',
                     gitHub: 'https://github.com/BMWeinstein7/CU-NYC-Project.git'
                 },
                 {
@@ -92,7 +92,7 @@ class Portfolio extends React.Component {
                 {
                     name: 'This is an employee directory app.',
                     urlToProject: 'https://udemployeebrandonjsellam.herokuapp.com',
-                    image: 'images/MyUd.png',
+                    image: 'https://media.giphy.com/media/mChRDUkcSA4P6gjL7H/giphy.gif',
                     gitHub: 'https://github.com/masterkaizer/MyUD.git'
                 },
                 {
