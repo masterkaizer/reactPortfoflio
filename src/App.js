@@ -6,8 +6,6 @@ import Home from "./components/routes/routes"
 import { createMuiTheme } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 import Clock from "./components/clock.jsx";
-var unicorn = require ("magic");
-console.log(unicorn.dance());
 const theme = createMuiTheme({
   palette: {
     primary: {
