@@ -13,7 +13,6 @@ class Header extends React.Component {
     portfolio = () => {
         this.props.history.push('/portfolio')
     }
-
     contact = () => {
         this.props.history.push('/contact')
     }
